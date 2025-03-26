@@ -1,0 +1,8 @@
+tkinterdnd2
+moviepy
+openai-whisper
+Pillow
+ffmpeg-python
+opencv-python
+numpy
+soundfile
